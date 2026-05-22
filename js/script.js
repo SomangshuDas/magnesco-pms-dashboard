@@ -138,4 +138,4 @@ createMachineDivs();
 setInterval(() => {
 	fetchTargetFromGoogleSheets();
 	fetchAchievedFromGoogleSheets();
-}, 1000);
+}, 5000);
